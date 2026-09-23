@@ -15,7 +15,7 @@ int main()
     }
 
     //nums2
-    for(int j=1;j>0;j--){
+    for(int j=i;j>0;j--){
         cout<<j;
     }
         
